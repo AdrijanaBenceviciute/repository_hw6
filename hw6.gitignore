@@ -1,2 +1,4 @@
 environmental_raw.txt
 environmental.csv
+*.csv
+__pycache__/
